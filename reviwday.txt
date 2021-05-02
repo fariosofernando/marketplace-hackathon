@@ -1,0 +1,9 @@
+que tal nao ser uma so empresa e ser varios e esta plataforma ser uma ou
+servir de ligacao entre os vendedores e tais empresas de fornecimento.
+
+- Isto facilitaria a atualizacao dos preco
+	assim: nao limitando o "vandedor a um só fornecedor com um determinado preco"
+
+Nossa proposta é a seguinte:
+   - A criacao de uma API nacional que os precos sao constantemente atulizados pos orgaos competentes:
+	: Isso geraria um fl
