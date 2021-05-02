@@ -1,2 +1,2 @@
 # marketplace-hackathon
-Desafio de hackathon. Plataforma de vendas de produtos agrícolas e online.
+Protótipo de uma solução que possibilite a comercialização online de produtos agrícolas para vendedores dentro dos mercados na Cidade de Maputo.
