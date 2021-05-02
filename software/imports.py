@@ -1,0 +1,3 @@
+# All import
+
+var = 'init'
